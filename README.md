@@ -48,3 +48,10 @@ The solution provides insights into employee distribution, performance, demograp
 - Monitor satisfaction metrics to identify at-risk employees  
 - Promote diversity and inclusive hiring practices  
 
+---
+
+## Project Structure
+
+- **report/** → Contains detailed report and dashboard PDF  
+- **dashboard/** → Contains Power BI (.pbix) file  
+- **data/** → Contains dataset used for analysis  
